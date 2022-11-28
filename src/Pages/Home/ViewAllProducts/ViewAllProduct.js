@@ -26,7 +26,7 @@ const ViewAllProduct = ({ product, handleShow, setProduct }) => {
       image,
       productId,
     };
-    fetch("https://assignment-12-server-alpha.vercel.app/wishlist", {
+    fetch("http://localhost:5000/wishlist", {
       method: "POST",
       headers: {
         "content-type": "application/json",
@@ -104,7 +104,7 @@ const ViewAllProduct = ({ product, handleShow, setProduct }) => {
             </>
           ) : (
             <Link onClick={handleLoginToast}>
-              <Button variant="outline-info">Book </Button>
+              <Button variant="outline-info">Book Now</Button>
             </Link>
           )}
         </Card.Body>
