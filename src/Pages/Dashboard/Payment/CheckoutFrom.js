@@ -152,7 +152,7 @@ const CheckoutFrom = ({ booking }) => {
         <div>
           <p className="text-secondary">{success}</p>
           <p>
-            Your transactionId: <span className="fw-bold">{transactionId}</span>
+            transactionId: <span className="fw-bold">{transactionId}</span>
           </p>
         </div>
       )}
