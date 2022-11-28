@@ -1,0 +1,14 @@
+.footer-section {
+  background: #151414;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+.copyright-area {
+  padding: 15px 0;
+}
+.copyright-text p {
+  font-size: 20px;
+  color: #07d5f4;
+  font-weight: bold;
+}
