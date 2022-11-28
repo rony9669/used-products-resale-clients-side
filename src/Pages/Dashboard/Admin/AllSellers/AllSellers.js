@@ -69,7 +69,7 @@ const AllSellers = () => {
           <thead>
             <tr>
               <th>NO.</th>
-              <th></th>
+              <th>Name</th>
               <th>Email</th>
               <th>Verify </th>
               <th>Action</th>
