@@ -24,7 +24,7 @@ const AdvertiseProduct = () => {
   return (
     <div className="mt-5 mb-3">
       {products?.length > 0 && (
-        <h3 className="text-center text-danger mb-2">Product Advertisement</h3>
+        <h3 className="text-center text-danger mb-2">Product </h3>
       )}
 
       <div className="card-grid">
