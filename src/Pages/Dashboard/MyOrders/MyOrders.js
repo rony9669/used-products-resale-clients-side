@@ -23,7 +23,7 @@ const MyOrders = () => {
   return (
     isBuyer && (
       <div>
-        <h2 className="text-center">You have {bookings?.length} orders </h2>
+        <h2 className="text-center">You have {bookings?.length} </h2>
         {bookings?.length > 0 && (
           <div>
             <Table bordered hover>
