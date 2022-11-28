@@ -104,7 +104,7 @@ const ViewAllProduct = ({ product, handleShow, setProduct }) => {
             </>
           ) : (
             <Link onClick={handleLoginToast}>
-              <Button variant="outline-info">Book Now</Button>
+              <Button variant="outline-info">Book </Button>
             </Link>
           )}
         </Card.Body>
