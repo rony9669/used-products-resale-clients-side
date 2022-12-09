@@ -1,6 +1,6 @@
 ---
 
-# Project Title: Mishu's Kitchen
+# Project Title: Bike Bazar 
 
 ## Live website link: https://bikebazzar-ccd7b.web.app/
 
