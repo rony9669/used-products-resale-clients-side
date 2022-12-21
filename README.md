@@ -1,6 +1,6 @@
 ---
 
-# Project Title: Mishu's Kitchen
+# Project Title: Bike Bazar 
 
 ## Live website link: https://bikebazzar-ccd7b.web.app/
 
@@ -33,8 +33,8 @@
 
 #
 
--admin email:yimix52684@turuma.com
--password:Asdfgh1@
+##admin email:yimix52684@turuma.com
+##password:Asdfgh1@
 
 # Getting Started with Create React App
 
